@@ -1,9 +1,9 @@
-package com.webapp.controllers;
+package com.web.app.controllers;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.servlet.ModelAndView;
 
-import com.webapp.services.WelcomeService;
+import com.web.app.services.WelcomeService;
 
 public class WelcomeController {
 	

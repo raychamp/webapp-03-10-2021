@@ -4,10 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Home</title>
+<title>Insert title here</title>
 </head>
 <body>
-
 <h2>Home</h2>
 
 <form action="/action_page.php">
@@ -18,7 +17,6 @@
   <label for="lname">Hobby:</label><br>
   <input type="text" id="hobby" name="hobby" value="Hobby"><br><br>
   <input type="submit" value="Submit">
-</form> 
-
+</form>
 </body>
 </html>

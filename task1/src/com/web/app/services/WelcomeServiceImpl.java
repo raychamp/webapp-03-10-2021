@@ -1,4 +1,4 @@
-package com.webapp.services;
+package com.web.app.services;
 
 public class WelcomeServiceImpl implements WelcomeService {
 
